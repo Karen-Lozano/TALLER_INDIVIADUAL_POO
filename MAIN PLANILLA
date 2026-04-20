@@ -1,0 +1,8 @@
+public class Main {
+    public static void main(String[] args){
+        Planilla pl=new Planilla();
+
+        pl.ingresarDatos();
+        pl.mostrarDatos();
+    }
+}
