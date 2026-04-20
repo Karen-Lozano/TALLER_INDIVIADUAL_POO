@@ -1,8 +1,7 @@
-public class Main {
+public class Main{
     public static void main(String[] args){
-        Estudiante e=new Estudiante();
-        e.registrarDatos();
-        e.mostrarDatos();
-
+        Producto p=new Producto();
+        p.ingresarDatos();
+        p.mostrarFactura();
     }
 }
